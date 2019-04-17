@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wzr1337/rsi-plugins.media"
+    "url": "https://github.com/Truring/rsi-plugins.media"
   },
   "author": "Dr. Patrick Bartsch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wzr1337/rsi-plugins.media/issues"
+    "url": "https://github.com/Truring/rsi-plugins.media/issues"
   },
-  "homepage": "https://github.com/wzr1337/rsi-plugins.media#readme",
+  "homepage": "https://github.com/Truring/rsi-plugins.media#readme",
   "dependencies": {
     "@rsi/cdn": "https://github.com/Truring/rsi.cdn",
     "@rsi/core": "https://github.com/Truring/rsi.core",
