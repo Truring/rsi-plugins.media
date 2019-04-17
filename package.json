@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/wzr1337/rsi-plugins.media#readme",
   "dependencies": {
-    "@rsi/cdn": "https://github.com/wzr1337/rsi.cdn#0.2.9",
-    "@rsi/core": "https://github.com/wzr1337/rsi.core#0.2.9",
+    "@rsi/cdn": "https://github.com/Truring/rsi.cdn",
+    "@rsi/core": "https://github.com/Truring/rsi.core",
     "@types/winston": "^2.3.8",
     "rxjs": "^5.5.11",
     "uuid": "^3.2.1"
